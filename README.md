@@ -1,8 +1,19 @@
 
-  - 👋 Olá, aqui compartilhamos informações importantes sobre a jornada dos imigrantes ( brazucas ) em Portugal
+  - 👋 Olá, aqui compartilhamos informações importantes sobre a jornada dos imigrantes ( brazucas ) em Portugal. 
+  - Esta é uma página colaborativa e contamos com a participação de todos. 
+
+Seguimos os modelos das seguintes páginas: 
+
+https://tschope.github.io/FAQ-IT-Ireland
+
+https://github.com/atmmoreira/jobsinworld
+
+
+
   - 👀 O foco é economizar dinheiro, tempo e superar os desafios mais comuns 
 
 A maior base da informação é do grupo de ZAP: IT - em Portugal
+
 
 SAÚDE
 
